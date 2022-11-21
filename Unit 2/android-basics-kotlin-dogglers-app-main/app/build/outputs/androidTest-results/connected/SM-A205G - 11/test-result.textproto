@@ -1,0 +1,224 @@
+# 2022-05-13T20:04:10.585Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 4
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "VerticalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "recycler_view_item_count"
+    start_time {
+      seconds: 1652472242
+      nanos: 821000000
+    }
+    end_time {
+      seconds: 1652472244
+      nanos: 845000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Soul\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\SM-A205G - 11\\logcat-com.example.dogglers.VerticalListTests-recycler_view_item_count.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Soul\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\SM-A205G - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Soul\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\SM-A205G - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Soul\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\SM-A205G - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "VerticalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "vertical_scroll_content_at_last_position"
+    start_time {
+      seconds: 1652472245
+      nanos: 60000000
+    }
+    end_time {
+      seconds: 1652472246
+      nanos: 345000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Soul\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\SM-A205G - 11\\logcat-com.example.dogglers.VerticalListTests-vertical_scroll_content_at_last_position.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Soul\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\SM-A205G - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Soul\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\SM-A205G - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Soul\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\SM-A205G - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "VerticalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "vertical_scrolling"
+    start_time {
+      seconds: 1652472246
+      nanos: 571000000
+    }
+    end_time {
+      seconds: 1652472248
+      nanos: 180000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Soul\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\SM-A205G - 11\\logcat-com.example.dogglers.VerticalListTests-vertical_scrolling.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Soul\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\SM-A205G - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Soul\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\SM-A205G - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Soul\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\SM-A205G - 11\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "VerticalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "vertical_scroll_content_at_first_position"
+    start_time {
+      seconds: 1652472248
+      nanos: 406000000
+    }
+    end_time {
+      seconds: 1652472249
+      nanos: 647000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Soul\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\SM-A205G - 11\\logcat-com.example.dogglers.VerticalListTests-vertical_scroll_content_at_first_position.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Soul\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\SM-A205G - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Soul\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\SM-A205G - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Soul\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\SM-A205G - 11\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\Soul\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\SM-A205G - 11\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

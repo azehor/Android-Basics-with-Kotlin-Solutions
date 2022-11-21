@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.dogglers.VerticalListTests" tests="4" failures="0" errors="0" skipped="0" time="7.701" timestamp="2022-05-13T20:04:10" hostname="localhost">
+  <properties>
+    <property name="device" value="SM-A205G - 11" />
+    <property name="flavor" value="" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="recycler_view_item_count" classname="com.example.dogglers.VerticalListTests" time="2.004" />
+  <testcase name="vertical_scroll_content_at_last_position" classname="com.example.dogglers.VerticalListTests" time="1.283" />
+  <testcase name="vertical_scrolling" classname="com.example.dogglers.VerticalListTests" time="1.607" />
+  <testcase name="vertical_scroll_content_at_first_position" classname="com.example.dogglers.VerticalListTests" time="1.239" />
+</testsuite>
